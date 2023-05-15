@@ -1,1 +1,4 @@
 community classroom is amazing 
+start edit
+day 1 completed git tutorial
+day 2 YAML course
